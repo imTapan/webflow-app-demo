@@ -1,0 +1,6 @@
+{
+  "name": "webflow-app-demo",
+  "publicDir": "public",
+  "size": "default",
+  "apiVersion": "2"
+}
